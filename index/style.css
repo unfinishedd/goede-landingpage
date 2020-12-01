@@ -1,0 +1,11 @@
+body {
+    background-color: purple;
+  }
+  
+  h1 {
+    color: black;
+    margin-left: 20px;
+  }
+
+  img.Image { max-width: 100%;}
+div#ImageContainer { width: 600px; }
